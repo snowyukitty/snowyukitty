@@ -2528,8 +2528,8 @@
       "url": "https://ai-iconflow.com/"
     },
     {
-      "name": "Game Hype Radar",
-      "url": "https://game-radar.pages.dev/"
+      "name": "Tokyo Game Show",
+      "url": "https://tgs.best/"
     },
     {
       "name": "LumenDeck",
@@ -2547,5 +2547,37 @@
       "status": "In development"
     }
   ],
-  "discord": "https://discord.com/users/676210679899881484"
+  "discord": "https://discord.com/users/676210679899881484",
+  "socialIcons": [
+    {
+      "file": "social-discord.svg",
+      "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg",
+      "blob": "9d7796b8a3068f33744f39640c84b40138c81cf0",
+      "sha256": "1d364b72c9eaf1fe37d17ca88cd8fb541308dc0f3b09e2ab3b824f380b3493d5"
+    },
+    {
+      "file": "social-x.svg",
+      "url": "https://github.com/simple-icons/simple-icons/blob/develop/icons/x.svg",
+      "blob": "a7c37cff5b0c39b56bb0eb04a2242b002a128598",
+      "sha256": "693e68863eceb8dc9f72e2acd386ab9c20a10858dab2c076212f7084cb7a32fe"
+    },
+    {
+      "file": "social-website.svg",
+      "url": "https://github.com/lucide-icons/lucide/blob/main/icons/globe.svg",
+      "blob": "53c80ee35dd294b0193642f0731010e033ba0618",
+      "sha256": "82c6b8fa0b8e8d775ec9becd86f74a4e50bff7bee4c81f7362de45348504f14d"
+    },
+    {
+      "file": "lucide-license.txt",
+      "url": "https://github.com/lucide-icons/lucide/blob/main/LICENSE",
+      "blob": "718bb3f0e44153809972abed31839375804bf652",
+      "sha256": "b495047bd93a9b06913511076f504daba17d5bbeb3e0650f3bb53a4220329c57"
+    },
+    {
+      "file": "simple-icons-license.txt",
+      "url": "https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md",
+      "blob": "70d4a7b6740c5d9b594ff2fc27d3ea7e89413185",
+      "sha256": "9046848b63a5c92bff14e4accca80bd987e0623b74adf9226ce5198d312b79d5"
+    }
+  ]
 }

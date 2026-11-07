@@ -8,7 +8,22 @@ I hate lies. So, so, so much. (｡•́︿•̀｡)
 
 For many years, I put my own interests aside to devote myself to volunteer work. ❤️
 
-[snowy-smile.com](https://snowy-smile.com/) · [X / @snowy_smile_](https://x.com/snowy_smile_) · [Discord](https://discord.com/users/676210679899881484)
+<p><a href="https://snowy-smile.com/" title="Website — snowy-smile.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-website-dark.svg"><img src="assets/contact-website-light.svg" alt="Website — snowy-smile.com" width="48"></picture></a>
+<a href="https://x.com/snowy_smile_" title="X — @snowy_smile_"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-x-dark.svg"><img src="assets/contact-x-light.svg" alt="X — @snowy_smile_" width="48"></picture></a>
+<a href="https://discord.com/users/676210679899881484" title="Discord — say hello to Snowy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-discord-dark.svg"><img src="assets/contact-discord-light.svg" alt="Discord — say hello to Snowy" width="48"></picture></a></p>
+
+## Things I make
+
+Tools for colour, creative work, everyday computing, and discovering games.
+
+<p align="center"><a href="https://huemantics.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-huemantics-dark.svg"><img src="assets/work-huemantics-light.svg" alt="huemantics — Colour systems you can see, check, and hear." width="248"></picture></a>
+<a href="https://ai-iconflow.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-iconflow-dark.svg"><img src="assets/work-iconflow-light.svg" alt="IconFlow — One SVG, a complete set of app icons." width="248"></picture></a>
+<a href="https://tgs.best/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-tgs-dark.svg"><img src="assets/work-tgs-light.svg" alt="Tokyo Game Show — An unofficial guide to games, places, and discovery." width="248"></picture></a>
+<a href="https://github.com/snowyukitty/LumenDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-lumendeck-dark.svg"><img src="assets/work-lumendeck-light.svg" alt="LumenDeck — Brightness and warmth, for every Windows display." width="248"></picture></a>
+<a href="https://github.com/snowyukitty/morflo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-morflo-dark.svg"><img src="assets/work-morflo-light.svg" alt="Morflo — Convert, resize, compress. Your images stay on your PC." width="248"></picture></a>
+<a href="https://github.com/snowyukitty/agent-orchestrator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-orchestrator-dark.svg"><img src="assets/work-orchestrator-light.svg" alt="Agent Orchestrator — A workspace for your terminal AI agents." width="248"></picture></a></p>
+
+Development previews are labelled on their cards.
 
 ## Merged upstream
 
@@ -172,7 +187,7 @@ A small selection from my [GitHub stars](https://github.com/snowyukitty?tab=star
 <a href="https://github.com/wezterm/wezterm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/star-wezterm-dark.svg"><img src="assets/star-wezterm-light.svg" alt="WezTerm — Terminal craft. From my GitHub stars." width="156"></picture></a></p>
 
 <p align="center"><a href="https://github.com/snowyukitty?tab=stars"><picture><source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="assets/topics-compact-dark.svg"><source media="(max-width: 500px)" srcset="assets/topics-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/topics-dark.svg"><img src="assets/topics-light.svg" alt="Topics in my starred repositories. Counts can overlap; these are repository tags, not manually starred topics." width="380"></picture></a>
-<a href="https://snowyukitty.com/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="assets/coda-compact-dark.svg"><source media="(max-width: 500px)" srcset="assets/coda-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/coda-dark.svg"><img src="assets/coda-light.svg" alt="A little space to wander — a colourful pixel garden with a waving white kitten." width="380"></picture></a></p>
+<a href="https://snowyukitty.com/"><picture><source media="(prefers-color-scheme: dark) and (max-width: 500px)" srcset="assets/coda-compact-dark.svg"><source media="(max-width: 500px)" srcset="assets/coda-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/coda-dark.svg"><img src="assets/coda-light.svg" alt="A little space to wander — a white pixel kitten resting two paws on a garden ledge." width="380"></picture></a></p>
 
 <sub>Topic counts come from tags on my starred repositories, not a list of skills or manually starred topics.</sub>
 
@@ -184,18 +199,6 @@ Stories about game worlds, animation, and everyday places. Short films made with
 <a href="https://snowy-smile.com/#film-anima"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-anima-dark.svg"><img src="assets/film-anima-light.svg" alt="Anima · 8:52 — A journey through Japanese animation." width="248"></picture></a>
 <a href="https://snowy-smile.com/#film-yonago"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-yonago-dark.svg"><img src="assets/film-yonago-light.svg" alt="Okaeri no Machi · 5:59 — A small film about the place I call home." width="248"></picture></a></p>
 
-## Things I make
-
-Tools for colour, creative work, everyday computing, and the next game to play.
-
-<p align="center"><a href="https://huemantics.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-huemantics-dark.svg"><img src="assets/work-huemantics-light.svg" alt="huemantics — Colour systems you can see, check, and hear." width="248"></picture></a>
-<a href="https://ai-iconflow.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-iconflow-dark.svg"><img src="assets/work-iconflow-light.svg" alt="IconFlow — One SVG, a complete set of app icons." width="248"></picture></a>
-<a href="https://game-radar.pages.dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-radar-dark.svg"><img src="assets/work-radar-light.svg" alt="Game Hype Radar — Find the next game. Know why it fits." width="248"></picture></a>
-<a href="https://github.com/snowyukitty/LumenDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-lumendeck-dark.svg"><img src="assets/work-lumendeck-light.svg" alt="LumenDeck — Brightness and warmth, for every Windows display." width="248"></picture></a>
-<a href="https://github.com/snowyukitty/morflo"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-morflo-dark.svg"><img src="assets/work-morflo-light.svg" alt="Morflo — Convert, resize, compress. Your images stay on your PC." width="248"></picture></a>
-<a href="https://github.com/snowyukitty/agent-orchestrator"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-orchestrator-dark.svg"><img src="assets/work-orchestrator-light.svg" alt="Agent Orchestrator — A workspace for your terminal AI agents." width="248"></picture></a></p>
-
-Development previews are labelled on their cards.
 
 ---
 

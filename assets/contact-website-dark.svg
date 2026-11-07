@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="44" viewBox="0 0 48 44" role="img"><title>Website — snowy-smile.com</title><g font-family="Segoe UI,Arial,sans-serif"><rect x=".5" y=".5" width="43" height="43" rx="12" fill="#1B2927" stroke="#3C3445"/><g transform="translate(10 10)" fill="none" stroke="#71B9BA" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10" />
+  <path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20" />
+  <path d="M2 12h20" />
+</g></g></svg>
