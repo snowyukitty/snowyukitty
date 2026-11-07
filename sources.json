@@ -1,0 +1,2503 @@
+{
+  "snapshot": "2026-11-07",
+  "totalMergedPRs": 216,
+  "projects": 115,
+  "query": "is:pr is:merged author:snowyukitty is:public",
+  "excludedPersonalPRs": 10,
+  "repositories": [
+    {
+      "repository": "remotion-dev/remotion",
+      "stars": 71367,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://remotion.dev/img/favicon.png",
+      "prs": [
+        {
+          "number": 11965,
+          "url": "https://github.com/remotion-dev/remotion/pull/11965",
+          "title": "`@remotion/studio`: Follow active caption in inspector",
+          "merged_at": "2026-10-05T09:12:23Z"
+        }
+      ]
+    },
+    {
+      "repository": "xyflow/xyflow",
+      "stars": 38926,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://xyflow.com/apple-icon.png?apple-icon.0mezx-uq2vyhw.png",
+      "prs": [
+        {
+          "number": 6068,
+          "url": "https://github.com/xyflow/xyflow/pull/6068",
+          "title": "fix: cancel click connections on pane click",
+          "merged_at": "2026-10-28T10:48:59Z"
+        }
+      ]
+    },
+    {
+      "repository": "dgtlmoon/changedetection.io",
+      "stars": 35600,
+      "mergedPRs": 4,
+      "iconKind": "project-icon",
+      "iconSource": "https://changedetection.io/themes/cdio/assets/images/favicons/apple-touch-icon.png",
+      "prs": [
+        {
+          "number": 4294,
+          "url": "https://github.com/dgtlmoon/changedetection.io/pull/4294",
+          "title": "feature: allow a watch or group to append to the inherited AI Change Summary prompt",
+          "merged_at": "2026-08-20T13:14:59Z"
+        },
+        {
+          "number": 4293,
+          "url": "https://github.com/dgtlmoon/changedetection.io/pull/4293",
+          "title": "fix: sanitize lone unicode surrogates before filtering JSON",
+          "merged_at": "2026-08-15T15:24:48Z"
+        },
+        {
+          "number": 4289,
+          "url": "https://github.com/dgtlmoon/changedetection.io/pull/4289",
+          "title": "fix: avoid division by zero when logging watch load rate",
+          "merged_at": "2026-08-16T12:26:39Z"
+        },
+        {
+          "number": 4286,
+          "url": "https://github.com/dgtlmoon/changedetection.io/pull/4286",
+          "title": "fix: invalidate favicon cache when clearing watch history",
+          "merged_at": "2026-08-16T12:24:46Z"
+        }
+      ]
+    },
+    {
+      "repository": "raysan5/raylib",
+      "stars": 35570,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://www.raylib.com/favicon.ico",
+      "prs": [
+        {
+          "number": 6215,
+          "url": "https://github.com/raysan5/raylib/pull/6215",
+          "title": "[rcore][SDL] Accumulate relative mouse motion per frame",
+          "merged_at": "2026-10-04T17:01:54Z"
+        }
+      ]
+    },
+    {
+      "repository": "nicolargo/glances",
+      "stars": 33908,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://nicolargo.github.io/glances/favicon.ico",
+      "prs": [
+        {
+          "number": 3817,
+          "url": "https://github.com/nicolargo/glances/pull/3817",
+          "title": "Fix GPU telemetry for multi-digit hwmon indices",
+          "merged_at": "2026-10-25T16:50:26Z"
+        }
+      ]
+    },
+    {
+      "repository": "4ian/GDevelop",
+      "stars": 28525,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://gdevelop.io/favicons/apple-touch-icon.png",
+      "prs": [
+        {
+          "number": 9253,
+          "url": "https://github.com/4ian/GDevelop/pull/9253",
+          "title": "Restore stencil buffer for the shared 3D renderer",
+          "merged_at": "2026-10-19T11:36:10Z"
+        }
+      ]
+    },
+    {
+      "repository": "Automattic/mongoose",
+      "stars": 27451,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://mongoosejs.com/docs/images/favicon/apple-icon-57x57.png",
+      "prs": [
+        {
+          "number": 16435,
+          "url": "https://github.com/Automattic/mongoose/pull/16435",
+          "title": "fix(connection): restore delete state across transaction retries",
+          "merged_at": "2026-08-05T15:02:48Z"
+        }
+      ]
+    },
+    {
+      "repository": "go-playground/validator",
+      "stars": 20219,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://raw.githubusercontent.com/go-playground/validator/master/logo.png",
+      "prs": [
+        {
+          "number": 1600,
+          "url": "https://github.com/go-playground/validator/pull/1600",
+          "title": "fix: use idiomatic \"at most\" in English max/lte messages",
+          "merged_at": "2026-07-29T17:07:58Z"
+        }
+      ]
+    },
+    {
+      "repository": "lidge-jun/opencodex",
+      "stars": 18270,
+      "mergedPRs": 6,
+      "iconKind": "project-icon",
+      "iconSource": "https://opencodex.me/favicon.png",
+      "prs": [
+        {
+          "number": 2532,
+          "url": "https://github.com/lidge-jun/opencodex/pull/2532",
+          "title": "fix(adapters): validate buffered response and ndjson frame shapes (#2531)",
+          "merged_at": "2026-08-25T14:58:46Z"
+        },
+        {
+          "number": 2232,
+          "url": "https://github.com/lidge-jun/opencodex/pull/2232",
+          "title": "fix(google): validate candidate, content and part containers (#2231)",
+          "merged_at": "2026-08-21T01:30:51Z"
+        },
+        {
+          "number": 1240,
+          "url": "https://github.com/lidge-jun/opencodex/pull/1240",
+          "title": "fix(sse): treat a data frame that parses to a non-record as malformed (#1219)",
+          "merged_at": "2026-08-08T09:21:09Z"
+        },
+        {
+          "number": 711,
+          "url": "https://github.com/lidge-jun/opencodex/pull/711",
+          "title": "fix(claude): accept data-only Responses SSE (#700)",
+          "merged_at": "2026-07-29T23:06:14Z"
+        },
+        {
+          "number": 363,
+          "url": "https://github.com/lidge-jun/opencodex/pull/363",
+          "title": "fix(chat-completions): emit tool call arguments once",
+          "merged_at": "2026-07-24T01:07:45Z"
+        },
+        {
+          "number": 319,
+          "url": "https://github.com/lidge-jun/opencodex/pull/319",
+          "title": "fix(deps): raise fast-uri floor to 3.1.4",
+          "merged_at": "2026-07-23T07:14:35Z"
+        }
+      ]
+    },
+    {
+      "repository": "OpenRA/OpenRA",
+      "stars": 17742,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://www.openra.net/favicon.ico",
+      "prs": [
+        {
+          "number": 22623,
+          "url": "https://github.com/OpenRA/OpenRA/pull/22623",
+          "title": "Fix Sonar Pulse multiplayer shroud desync",
+          "merged_at": "2026-10-09T13:33:42Z"
+        }
+      ]
+    },
+    {
+      "repository": "less/less.js",
+      "stars": 17003,
+      "mergedPRs": 1,
+      "iconKind": "project-icon",
+      "iconSource": "https://lesscss.org/public/ico/favicon.ico",
+      "prs": [
+        {
+          "number": 4486,
+          "url": "https://github.com/less/less.js/pull/4486",
+          "title": "fix: prevent reparsing escape() results",
+          "merged_at": "2026-08-13T18:04:22Z"
+        }
+      ]
+    },
+    {
+      "repository": "ast-grep/ast-grep",
+      "stars": 16470,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/114017360?v=4&s=128",
+      "prs": [
+        {
+          "number": 2868,
+          "url": "https://github.com/ast-grep/ast-grep/pull/2868",
+          "title": "fix: match root metavariables against comments",
+          "merged_at": "2026-08-06T13:54:04Z"
+        }
+      ]
+    },
+    {
+      "repository": "Tonejs/Tone.js",
+      "stars": 14890,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/11019186?v=4",
+      "prs": [
+        {
+          "number": 1528,
+          "url": "https://github.com/Tonejs/Tone.js/pull/1528",
+          "title": "fix(Oscillator): cache periodic waves by sample rate",
+          "merged_at": "2026-10-22T20:44:13Z"
+        }
+      ]
+    },
+    {
+      "repository": "darrenburns/posting",
+      "stars": 12609,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5740731?u=714fe0a321629191c59ab823466aab8254299bcc&v=4",
+      "prs": [
+        {
+          "number": 392,
+          "url": "https://github.com/darrenburns/posting/pull/392",
+          "title": "fix: honor client certificates with custom CA bundles",
+          "merged_at": "2026-10-05T20:46:16Z"
+        }
+      ]
+    },
+    {
+      "repository": "cloudflare/cloudflare-os",
+      "stars": 11707,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/314135?v=4",
+      "prs": [
+        {
+          "number": 653,
+          "url": "https://github.com/cloudflare/cloudflare-os/pull/653",
+          "title": "Fix bundled blueprint test assertions on Windows",
+          "merged_at": "2026-10-05T14:09:09Z"
+        },
+        {
+          "number": 221,
+          "url": "https://github.com/cloudflare/cloudflare-os/pull/221",
+          "title": "Fix oxlint plugin test on Windows",
+          "merged_at": "2026-08-17T13:05:54Z"
+        }
+      ]
+    },
+    {
+      "repository": "Immediate-Mode-UI/Nuklear",
+      "stars": 11485,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/58210959?v=4",
+      "prs": [
+        {
+          "number": 993,
+          "url": "https://github.com/Immediate-Mode-UI/Nuklear/pull/993",
+          "title": "Separate property focus from text edit focus",
+          "merged_at": "2026-10-31T22:14:26Z"
+        }
+      ]
+    },
+    {
+      "repository": "gka/chroma.js",
+      "stars": 10604,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/617518?u=e186ff214549cc8d3aa43bbc2a38799e135dc60a&v=4",
+      "prs": [
+        {
+          "number": 407,
+          "url": "https://github.com/gka/chroma.js/pull/407",
+          "title": "fix(blend): composite colors using their alpha values",
+          "merged_at": "2026-10-24T22:18:46Z"
+        }
+      ]
+    },
+    {
+      "repository": "lutris/lutris",
+      "stars": 10365,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5067433?v=4",
+      "prs": [
+        {
+          "number": 6957,
+          "url": "https://github.com/lutris/lutris/pull/6957",
+          "title": "Validate command values in installer execute steps",
+          "merged_at": "2026-10-13T22:07:47Z"
+        },
+        {
+          "number": 6953,
+          "url": "https://github.com/lutris/lutris/pull/6953",
+          "title": "Fix detection of installed Epic base games with empty parent names",
+          "merged_at": "2026-10-12T22:27:47Z"
+        }
+      ]
+    },
+    {
+      "repository": "tonyantony300/dashbeam",
+      "stars": 10246,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/54979586?u=6c8dbb90b63f56dd79ed569bf61aa9e71145329a&v=4",
+      "prs": [
+        {
+          "number": 311,
+          "url": "https://github.com/tonyantony300/dashbeam/pull/311",
+          "title": "build(linux): add AppImage update information",
+          "merged_at": "2026-10-12T12:27:51Z"
+        }
+      ]
+    },
+    {
+      "repository": "jonobr1/two.js",
+      "stars": 8699,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/220033?u=e73d59b9671efc4f4878376c3eed6c852ef593a5&v=4",
+      "prs": [
+        {
+          "number": 884,
+          "url": "https://github.com/jonobr1/two.js/pull/884",
+          "title": "Fix repeated SVG gradient disposal",
+          "merged_at": "2026-10-31T05:05:20Z"
+        }
+      ]
+    },
+    {
+      "repository": "isomorphic-git/isomorphic-git",
+      "stars": 8387,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/34904042?v=4",
+      "prs": [
+        {
+          "number": 2451,
+          "url": "https://github.com/isomorphic-git/isomorphic-git/pull/2451",
+          "title": "fix: preserve Pako decompression errors when reading objects",
+          "merged_at": "2026-10-12T18:57:44Z"
+        }
+      ]
+    },
+    {
+      "repository": "ducaale/xh",
+      "stars": 8170,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/16341131?u=c7246ac820e5c348244e4ddfbf359f34b4505b7d&v=4",
+      "prs": [
+        {
+          "number": 470,
+          "url": "https://github.com/ducaale/xh/pull/470",
+          "title": "Fix truncated concatenated zstd response bodies",
+          "merged_at": "2026-07-17T15:11:52Z"
+        }
+      ]
+    },
+    {
+      "repository": "fontforge/fontforge",
+      "stars": 8062,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/2048660?v=4",
+      "prs": [
+        {
+          "number": 5935,
+          "url": "https://github.com/fontforge/fontforge/pull/5935",
+          "title": "Preserve BDF/PCF FONT_VERSION in bitmap font metadata",
+          "merged_at": "2026-10-27T19:24:11Z"
+        }
+      ]
+    },
+    {
+      "repository": "melonjs/melonJS",
+      "stars": 6440,
+      "mergedPRs": 6,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/579995?v=4",
+      "prs": [
+        {
+          "number": 1840,
+          "url": "https://github.com/melonjs/melonJS/pull/1840",
+          "title": "Add texture atlas skins to the virtual gamepad",
+          "merged_at": "2026-11-07T01:37:47Z"
+        },
+        {
+          "number": 1734,
+          "url": "https://github.com/melonjs/melonJS/pull/1734",
+          "title": "fix(texture): keep coordinate UVs out of atlas regions",
+          "merged_at": "2026-10-21T23:47:09Z"
+        },
+        {
+          "number": 1732,
+          "url": "https://github.com/melonjs/melonJS/pull/1732",
+          "title": "fix(ui): honor UITextButton keyboard bindings",
+          "merged_at": "2026-10-11T06:13:32Z"
+        },
+        {
+          "number": 1728,
+          "url": "https://github.com/melonjs/melonJS/pull/1728",
+          "title": "Add lifetime-animated and random sprite-sheet particles",
+          "merged_at": "2026-10-11T04:21:37Z"
+        },
+        {
+          "number": 1725,
+          "url": "https://github.com/melonjs/melonJS/pull/1725",
+          "title": "Add batched per-glyph effects to BitmapText",
+          "merged_at": "2026-10-09T10:47:24Z"
+        },
+        {
+          "number": 1712,
+          "url": "https://github.com/melonjs/melonJS/pull/1712",
+          "title": "Add per-object ground shadow scaling",
+          "merged_at": "2026-10-05T00:34:32Z"
+        }
+      ]
+    },
+    {
+      "repository": "JannisX11/blockbench",
+      "stars": 6169,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/29278436?u=5f8335a81bab7d427e94ec3b949bee8f6b7e122a&v=4",
+      "prs": [
+        {
+          "number": 3842,
+          "url": "https://github.com/JannisX11/blockbench/pull/3842",
+          "title": "Fix flipbook selection preview offsets",
+          "merged_at": "2026-10-23T20:28:43Z"
+        }
+      ]
+    },
+    {
+      "repository": "hacdias/webdav",
+      "stars": 5965,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5447088?u=433e906852c6953d9de3e6b0a69b00c1dbf5d390&v=4",
+      "prs": [
+        {
+          "number": 344,
+          "url": "https://github.com/hacdias/webdav/pull/344",
+          "title": "fix: use slash-separated lock paths on Windows",
+          "merged_at": "2026-07-25T05:15:28Z"
+        }
+      ]
+    },
+    {
+      "repository": "maziyarpanahi/openmed",
+      "stars": 5784,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5762953?u=17070601b919833c70fc8cb61381822fdb987639&v=4",
+      "prs": [
+        {
+          "number": 3977,
+          "url": "https://github.com/maziyarpanahi/openmed/pull/3977",
+          "title": "fix: retain concurrency permits until timed-out model work finishes",
+          "merged_at": "2026-10-11T17:28:59Z"
+        }
+      ]
+    },
+    {
+      "repository": "kornelski/pngquant",
+      "stars": 5773,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/72159?u=f25bf9f675b806b92a8e5083ce5d0b8f1d7708df&v=4",
+      "prs": [
+        {
+          "number": 433,
+          "url": "https://github.com/kornelski/pngquant/pull/433",
+          "title": "Fix log callback registration with current libimagequant",
+          "merged_at": "2026-10-27T17:23:56Z"
+        }
+      ]
+    },
+    {
+      "repository": "fonttools/fonttools",
+      "stars": 5309,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/20555868?v=4",
+      "prs": [
+        {
+          "number": 4374,
+          "url": "https://github.com/fonttools/fonttools/pull/4374",
+          "title": "[glyf] Round component offsets when calculating bounds",
+          "merged_at": "2026-11-01T17:25:36Z"
+        }
+      ]
+    },
+    {
+      "repository": "OGRECave/ogre",
+      "stars": 4692,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/16446637?v=4",
+      "prs": [
+        {
+          "number": 3751,
+          "url": "https://github.com/OGRECave/ogre/pull/3751",
+          "title": "Fix recursive GLSL macro rescanning",
+          "merged_at": "2026-10-12T17:43:30Z"
+        },
+        {
+          "number": 3750,
+          "url": "https://github.com/OGRECave/ogre/pull/3750",
+          "title": "Fix conditional directives in GLSL macro arguments",
+          "merged_at": "2026-10-11T10:43:56Z"
+        }
+      ]
+    },
+    {
+      "repository": "open-legal-products/mike",
+      "stars": 4428,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/297879885?v=4",
+      "prs": [
+        {
+          "number": 449,
+          "url": "https://github.com/open-legal-products/mike/pull/449",
+          "title": "fix: keep Unicode titles in generated document filenames",
+          "merged_at": "2026-09-12T14:26:53Z"
+        },
+        {
+          "number": 283,
+          "url": "https://github.com/open-legal-products/mike/pull/283",
+          "title": "fix: validate project chat request bodies before side effects",
+          "merged_at": "2026-08-04T06:59:56Z"
+        }
+      ]
+    },
+    {
+      "repository": "open-wanderer/wanderer",
+      "stars": 4057,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/252643751?v=4",
+      "prs": [
+        {
+          "number": 1314,
+          "url": "https://github.com/open-wanderer/wanderer/pull/1314",
+          "title": "fix(api): return 401 for invalid or revoked API tokens",
+          "merged_at": "2026-10-04T11:35:12Z"
+        },
+        {
+          "number": 1134,
+          "url": "https://github.com/open-wanderer/wanderer/pull/1134",
+          "title": "Fix duplicated shared-list rendering",
+          "merged_at": "2026-08-07T20:01:16Z"
+        }
+      ]
+    },
+    {
+      "repository": "DingTalk-Real-AI/dingtalk-workspace-cli",
+      "stars": 3942,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/257675475?v=4",
+      "prs": [
+        {
+          "number": 1016,
+          "url": "https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli/pull/1016",
+          "title": "fix(aitable): treat empty final page without records key as normal termination",
+          "merged_at": "2026-09-03T22:25:58Z"
+        }
+      ]
+    },
+    {
+      "repository": "agent-of-empires/agent-of-empires",
+      "stars": 3668,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/286672960?v=4",
+      "prs": [
+        {
+          "number": 4669,
+          "url": "https://github.com/agent-of-empires/agent-of-empires/pull/4669",
+          "title": "fix(web): keep settings open when dismissing dialogs",
+          "merged_at": "2026-10-19T10:12:22Z"
+        }
+      ]
+    },
+    {
+      "repository": "SurgeDM/Surge",
+      "stars": 3625,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/255338283?v=4",
+      "prs": [
+        {
+          "number": 581,
+          "url": "https://github.com/SurgeDM/Surge/pull/581",
+          "title": "fix(concurrent): avoid extra initial remainder request",
+          "merged_at": "2026-08-07T12:40:46Z"
+        }
+      ]
+    },
+    {
+      "repository": "opentk/opentk",
+      "stars": 3548,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5914736?v=4",
+      "prs": [
+        {
+          "number": 1931,
+          "url": "https://github.com/opentk/opentk/pull/1931",
+          "title": "Add NormalizedFast() for float and double vectors",
+          "merged_at": "2026-10-15T11:50:22Z"
+        }
+      ]
+    },
+    {
+      "repository": "getkin/kin-openapi",
+      "stars": 3322,
+      "mergedPRs": 3,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/40365715?v=4",
+      "prs": [
+        {
+          "number": 1252,
+          "url": "https://github.com/getkin/kin-openapi/pull/1252",
+          "title": "openapi3: compare multipleOf on exact rationals, not fixed-precision decimals",
+          "merged_at": "2026-08-19T10:34:47Z"
+        },
+        {
+          "number": 1233,
+          "url": "https://github.com/getkin/kin-openapi/pull/1233",
+          "title": "openapi3: stop InternalizeRefs panicking on unresolved discriminator mappings",
+          "merged_at": "2026-07-25T09:25:29Z"
+        },
+        {
+          "number": 1228,
+          "url": "https://github.com/getkin/kin-openapi/pull/1228",
+          "title": "openapi3filter: skip schema checks for empty allowEmptyValue strings",
+          "merged_at": "2026-07-19T06:18:50Z"
+        }
+      ]
+    },
+    {
+      "repository": "recp/cglm",
+      "stars": 3045,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/1264894?u=6904d162b8c95647c22060fbe7c279ea7ab09b3b&v=4",
+      "prs": [
+        {
+          "number": 505,
+          "url": "https://github.com/recp/cglm/pull/505",
+          "title": "Fix non-unit quaternion rotation matrices",
+          "merged_at": "2026-10-24T20:48:27Z"
+        }
+      ]
+    },
+    {
+      "repository": "uiwjs/react-md-editor",
+      "stars": 2936,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/33082374?v=4",
+      "prs": [
+        {
+          "number": 713,
+          "url": "https://github.com/uiwjs/react-md-editor/pull/713",
+          "title": "fix: fill the editor input area with the textarea",
+          "merged_at": "2026-10-20T20:27:53Z"
+        }
+      ]
+    },
+    {
+      "repository": "ValveResourceFormat/ValveResourceFormat",
+      "stars": 2550,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/142305535?v=4",
+      "prs": [
+        {
+          "number": 1264,
+          "url": "https://github.com/ValveResourceFormat/ValveResourceFormat/pull/1264",
+          "title": "Honor output filename for single VPK entry",
+          "merged_at": "2026-08-04T12:15:00Z"
+        }
+      ]
+    },
+    {
+      "repository": "RevylAI/greenlight",
+      "stars": 2466,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/137441477?v=4",
+      "prs": [
+        {
+          "number": 28,
+          "url": "https://github.com/RevylAI/greenlight/pull/28",
+          "title": "fix(playscan): detect per-library 64-bit gaps",
+          "merged_at": "2026-08-05T21:40:07Z"
+        }
+      ]
+    },
+    {
+      "repository": "excaliburjs/Excalibur",
+      "stars": 2362,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/6165683?v=4",
+      "prs": [
+        {
+          "number": 3873,
+          "url": "https://github.com/excaliburjs/Excalibur/pull/3873",
+          "title": "[#3280] Fix RepeatForever reset",
+          "merged_at": "2026-10-24T17:02:53Z"
+        }
+      ]
+    },
+    {
+      "repository": "mampfes/hacs_waste_collection_schedule",
+      "stars": 2307,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/375950?v=4",
+      "prs": [
+        {
+          "number": 7217,
+          "url": "https://github.com/mampfes/hacs_waste_collection_schedule/pull/7217",
+          "title": "fix(eastleigh_gov_uk): strip whitespace before parsing collection dates",
+          "merged_at": "2026-08-28T21:05:27Z"
+        },
+        {
+          "number": 7079,
+          "url": "https://github.com/mampfes/hacs_waste_collection_schedule/pull/7079",
+          "title": "fix(sudestavenir_fr): parse mixed green-waste schedules",
+          "merged_at": "2026-08-02T09:29:59Z"
+        }
+      ]
+    },
+    {
+      "repository": "HaxeFlixel/flixel",
+      "stars": 2238,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/4309553?v=4",
+      "prs": [
+        {
+          "number": 3663,
+          "url": "https://github.com/HaxeFlixel/flixel/pull/3663",
+          "title": "FlxBar: Refresh rendering when fill direction changes",
+          "merged_at": "2026-10-29T15:23:25Z"
+        }
+      ]
+    },
+    {
+      "repository": "pythonarcade/arcade",
+      "stars": 2100,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/39569439?v=4",
+      "prs": [
+        {
+          "number": 2959,
+          "url": "https://github.com/pythonarcade/arcade/pull/2959",
+          "title": "Allow explicit audio decoders when loading sounds",
+          "merged_at": "2026-10-09T13:27:53Z"
+        },
+        {
+          "number": 2932,
+          "url": "https://github.com/pythonarcade/arcade/pull/2932",
+          "title": "Fix rendering into texture atlases during growth",
+          "merged_at": "2026-10-07T16:45:11Z"
+        }
+      ]
+    },
+    {
+      "repository": "opensheetmusicdisplay/opensheetmusicdisplay",
+      "stars": 2011,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/17125896?v=4",
+      "prs": [
+        {
+          "number": 1850,
+          "url": "https://github.com/opensheetmusicdisplay/opensheetmusicdisplay/pull/1850",
+          "title": "fix(Octave shifts): anchor cross-staff starts at the source onset",
+          "merged_at": "2026-11-01T21:52:03Z"
+        },
+        {
+          "number": 1842,
+          "url": "https://github.com/opensheetmusicdisplay/opensheetmusicdisplay/pull/1842",
+          "title": "fix(Tuplets): preserve written dots on every chord member",
+          "merged_at": "2026-10-23T13:53:35Z"
+        }
+      ]
+    },
+    {
+      "repository": "carapace-sh/carapace-bin",
+      "stars": 2009,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/160910168?v=4",
+      "prs": [
+        {
+          "number": 3708,
+          "url": "https://github.com/carapace-sh/carapace-bin/pull/3708",
+          "title": "Parse runnable shim specs as YAML",
+          "merged_at": "2026-10-25T22:33:01Z"
+        }
+      ]
+    },
+    {
+      "repository": "xodus-gaming/xodus",
+      "stars": 1905,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/293230371?v=4",
+      "prs": [
+        {
+          "number": 152,
+          "url": "https://github.com/xodus-gaming/xodus/pull/152",
+          "title": "fix(licensing): guard SPLicense id_len underflow and decode UTF-16 lossily",
+          "merged_at": "2026-08-18T15:23:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "carvel-dev/ytt",
+      "stars": 1888,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/116381947?v=4",
+      "prs": [
+        {
+          "number": 998,
+          "url": "https://github.com/carvel-dev/ytt/pull/998",
+          "title": "Include filenames in Starlark errors",
+          "merged_at": "2026-08-17T23:22:03Z"
+        }
+      ]
+    },
+    {
+      "repository": "generative-computing/mellea",
+      "stars": 1850,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/219689266?v=4",
+      "prs": [
+        {
+          "number": 1451,
+          "url": "https://github.com/generative-computing/mellea/pull/1451",
+          "title": "test: honor capability overrides during example collection",
+          "merged_at": "2026-07-30T20:34:00Z"
+        }
+      ]
+    },
+    {
+      "repository": "kaplayjs/kaplay",
+      "stars": 1825,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/91400947?v=4",
+      "prs": [
+        {
+          "number": 1180,
+          "url": "https://github.com/kaplayjs/kaplay/pull/1180",
+          "title": "fix: honor zero-width spaces when wrapping text",
+          "merged_at": "2026-10-16T16:09:18Z"
+        }
+      ]
+    },
+    {
+      "repository": "jline/jline3",
+      "stars": 1811,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/711075?v=4",
+      "prs": [
+        {
+          "number": 2326,
+          "url": "https://github.com/jline/jline3/pull/2326",
+          "title": "fix: retain reader cursor tracking on status resize",
+          "merged_at": "2026-10-31T16:37:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "webbrain-one/webbrain",
+      "stars": 1672,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/295484252?u=163e3395cf011ac83c93078607f73a359ee155a3&v=4",
+      "prs": [
+        {
+          "number": 2845,
+          "url": "https://github.com/webbrain-one/webbrain/pull/2845",
+          "title": "feat: render markdown tables in sidepanel and skill previews",
+          "merged_at": "2026-08-18T07:58:02Z"
+        }
+      ]
+    },
+    {
+      "repository": "LeyckerS/moondownloader",
+      "stars": 1599,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/104737119?u=0e87e2028c491eaa0e827cdd54ba43aaa54cbd4f&v=4",
+      "prs": [
+        {
+          "number": 175,
+          "url": "https://github.com/LeyckerS/moondownloader/pull/175",
+          "title": "fix(download): stop counting the final write buffer twice in bytes_acc",
+          "merged_at": "2026-08-24T23:01:55Z"
+        }
+      ]
+    },
+    {
+      "repository": "xvrh/lottie-flutter",
+      "stars": 1302,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/5110923?v=4",
+      "prs": [
+        {
+          "number": 427,
+          "url": "https://github.com/xvrh/lottie-flutter/pull/427",
+          "title": "Fix time remapping with stretched precompositions",
+          "merged_at": "2026-08-21T17:58:12Z"
+        }
+      ]
+    },
+    {
+      "repository": "PHPantom-dev/phpantom_lsp",
+      "stars": 1282,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/285812083?v=4",
+      "prs": [
+        {
+          "number": 304,
+          "url": "https://github.com/PHPantom-dev/phpantom_lsp/pull/304",
+          "title": "refactor(type-engine): preserve scalar literal types in expression resolution",
+          "merged_at": "2026-08-01T09:22:48Z"
+        }
+      ]
+    },
+    {
+      "repository": "libtcod/libtcod",
+      "stars": 1241,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/40313210?v=4",
+      "prs": [
+        {
+          "number": 192,
+          "url": "https://github.com/libtcod/libtcod/pull/192",
+          "title": "Avoid modifying alias targets in the installed CMake config",
+          "merged_at": "2026-10-11T06:21:42Z"
+        },
+        {
+          "number": 190,
+          "url": "https://github.com/libtcod/libtcod/pull/190",
+          "title": "Detect tileset color keys from the mapped space glyph",
+          "merged_at": "2026-10-11T04:47:32Z"
+        }
+      ]
+    },
+    {
+      "repository": "craffel/pretty-midi",
+      "stars": 1049,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/417568?u=36c321b947898237f3fcaa5034827cb2da432e44&v=4",
+      "prs": [
+        {
+          "number": 266,
+          "url": "https://github.com/craffel/pretty-midi/pull/266",
+          "title": "Make written MIDI tempo rounding opt-in",
+          "merged_at": "2026-10-27T01:21:04Z"
+        }
+      ]
+    },
+    {
+      "repository": "better-lyrics/better-lyrics",
+      "stars": 1005,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/241627946?v=4",
+      "prs": [
+        {
+          "number": 978,
+          "url": "https://github.com/better-lyrics/better-lyrics/pull/978",
+          "title": "fix(i18n): give Portuguese Crowdin exports distinct paths",
+          "merged_at": "2026-10-07T15:59:25Z"
+        }
+      ]
+    },
+    {
+      "repository": "abey79/vpype",
+      "stars": 981,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/49431240?u=5148fbf93b4a75ca6a783142ed771506a6cdf051&v=4",
+      "prs": [
+        {
+          "number": 875,
+          "url": "https://github.com/abey79/vpype/pull/875",
+          "title": "Fix viewer crashes on reversed paths",
+          "merged_at": "2026-10-26T06:46:04Z"
+        }
+      ]
+    },
+    {
+      "repository": "h5i-dev/h5i",
+      "stars": 898,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/272305047?v=4",
+      "prs": [
+        {
+          "number": 489,
+          "url": "https://github.com/h5i-dev/h5i/pull/489",
+          "title": "fix: warn when H5I_AGENT is invalid",
+          "merged_at": "2026-08-13T16:36:21Z"
+        },
+        {
+          "number": 379,
+          "url": "https://github.com/h5i-dev/h5i/pull/379",
+          "title": "Add JSON output to recall search",
+          "merged_at": "2026-07-30T03:06:41Z"
+        }
+      ]
+    },
+    {
+      "repository": "asamassekou10/ship-safe",
+      "stars": 870,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/208567150?u=88c23c8aa7859d2d5aeff9ee1c880a052426fcd7&v=4",
+      "prs": [
+        {
+          "number": 171,
+          "url": "https://github.com/asamassekou10/ship-safe/pull/171",
+          "title": "test: add agent config injection fixtures",
+          "merged_at": "2026-08-29T06:18:37Z"
+        },
+        {
+          "number": 132,
+          "url": "https://github.com/asamassekou10/ship-safe/pull/132",
+          "title": "fix(cli): support directories in scan-mcp",
+          "merged_at": "2026-08-07T05:11:27Z"
+        }
+      ]
+    },
+    {
+      "repository": "Zhou-Shilin/Aether",
+      "stars": 767,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/86581525?u=9c19b4f2476e54b4de8748cfffc0e23274e62c87&v=4",
+      "prs": [
+        {
+          "number": 61,
+          "url": "https://github.com/Zhou-Shilin/Aether/pull/61",
+          "title": "feat: add extension drawer slots and open event",
+          "merged_at": "2026-08-07T11:39:21Z"
+        }
+      ]
+    },
+    {
+      "repository": "agentic-os-org/ANOLISA",
+      "stars": 660,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/326861446?v=4",
+      "prs": [
+        {
+          "number": 2171,
+          "url": "https://github.com/agentic-os-org/ANOLISA/pull/2171",
+          "title": "fix(anolisa): clarify missing repo index",
+          "merged_at": "2026-08-03T23:05:55Z"
+        }
+      ]
+    },
+    {
+      "repository": "DjangoCRM/django-crm",
+      "stars": 648,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/170883296?u=e060815fc23eb13b84cb863d7cd5998eef2479bd&v=4",
+      "prs": [
+        {
+          "number": 483,
+          "url": "https://github.com/DjangoCRM/django-crm/pull/483",
+          "title": "Copy request website to new leads",
+          "merged_at": "2026-07-29T17:48:49Z"
+        }
+      ]
+    },
+    {
+      "repository": "wainmann/agent-manager",
+      "stars": 639,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/345562134?v=4",
+      "prs": [
+        {
+          "number": 683,
+          "url": "https://github.com/wainmann/agent-manager/pull/683",
+          "title": "fix(ui): preserve reorders across in-flight polls",
+          "merged_at": "2026-10-06T10:46:30Z"
+        },
+        {
+          "number": 203,
+          "url": "https://github.com/wainmann/agent-manager/pull/203",
+          "title": "fix(status): prefer waiting over working matches",
+          "merged_at": "2026-08-03T22:10:12Z"
+        }
+      ]
+    },
+    {
+      "repository": "bolshakov/stoplight",
+      "stars": 629,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/991265?u=eb5803fbcd857ba2ae769f9137cdb241ce39fe0b&v=4",
+      "prs": [
+        {
+          "number": 836,
+          "url": "https://github.com/bolshakov/stoplight/pull/836",
+          "title": "fix: scope the rescue to the guarded call in run strategies",
+          "merged_at": "2026-07-22T16:32:31Z"
+        }
+      ]
+    },
+    {
+      "repository": "spnda/fastgltf",
+      "stars": 621,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/43609023?u=686e6bda8729c97a3538697058096dd8eb118ecc&v=4",
+      "prs": [
+        {
+          "number": 162,
+          "url": "https://github.com/spnda/fastgltf/pull/162",
+          "title": "docs: clarify external buffer and image loading options",
+          "merged_at": "2026-10-14T03:26:44Z"
+        }
+      ]
+    },
+    {
+      "repository": "felladrin/MiniSearch",
+      "stars": 608,
+      "mergedPRs": 3,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/418083?u=601cfc55c7b3c2821e23d928d37c202693e0928f&v=4",
+      "prs": [
+        {
+          "number": 2252,
+          "url": "https://github.com/felladrin/MiniSearch/pull/2252",
+          "title": "fix: handle internal API stream chunk boundaries",
+          "merged_at": "2026-07-30T01:29:13Z"
+        },
+        {
+          "number": 2217,
+          "url": "https://github.com/felladrin/MiniSearch/pull/2217",
+          "title": "fix: generate the search token with a CSPRNG",
+          "merged_at": "2026-07-27T12:48:19Z"
+        },
+        {
+          "number": 2212,
+          "url": "https://github.com/felladrin/MiniSearch/pull/2212",
+          "title": "fix: surface internal API stream errors",
+          "merged_at": "2026-07-24T01:49:06Z"
+        }
+      ]
+    },
+    {
+      "repository": "havit/Havit.Blazor",
+      "stars": 604,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/12955593?v=4",
+      "prs": [
+        {
+          "number": 1761,
+          "url": "https://github.com/havit/Havit.Blazor/pull/1761",
+          "title": "Avoid spacing for icon-only smart paste buttons",
+          "merged_at": "2026-08-31T21:28:04Z"
+        }
+      ]
+    },
+    {
+      "repository": "elmohq/elmo",
+      "stars": 574,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/229394758?v=4",
+      "prs": [
+        {
+          "number": 516,
+          "url": "https://github.com/elmohq/elmo/pull/516",
+          "title": "Preserve report page URLs during analysis",
+          "merged_at": "2026-08-06T20:31:31Z"
+        }
+      ]
+    },
+    {
+      "repository": "EpicGames/PixelStreamingInfrastructure",
+      "stars": 556,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/6615685?v=4",
+      "prs": [
+        {
+          "number": 1128,
+          "url": "https://github.com/EpicGames/PixelStreamingInfrastructure/pull/1128",
+          "title": "fix(js-streamer): clean up player connections",
+          "merged_at": "2026-10-27T03:07:28Z"
+        }
+      ]
+    },
+    {
+      "repository": "Boeing/config-file-validator",
+      "stars": 518,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/13895029?v=4",
+      "prs": [
+        {
+          "number": 619,
+          "url": "https://github.com/Boeing/config-file-validator/pull/619",
+          "title": "fix(yamlfmt): expand flow collections under the key's real column",
+          "merged_at": "2026-07-31T20:10:11Z"
+        }
+      ]
+    },
+    {
+      "repository": "floci-io/floci-ui",
+      "stars": 500,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/271436837?v=4",
+      "prs": [
+        {
+          "number": 285,
+          "url": "https://github.com/floci-io/floci-ui/pull/285",
+          "title": "fix(frontend): prevent stale JSON copy feedback",
+          "merged_at": "2026-10-04T17:02:24Z"
+        },
+        {
+          "number": 185,
+          "url": "https://github.com/floci-io/floci-ui/pull/185",
+          "title": "feat(gcp): add Cloud Scheduler adapter to Cloud Explorer",
+          "merged_at": "2026-09-03T02:26:37Z"
+        }
+      ]
+    },
+    {
+      "repository": "openwong2kim/wmux",
+      "stars": 448,
+      "mergedPRs": 67,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/269396487?u=c2a2e2862db57e39ce9b6ea7def5b3d49e980437&v=4",
+      "prs": [
+        {
+          "number": 2170,
+          "url": "https://github.com/openwong2kim/wmux/pull/2170",
+          "title": "fix(wsl): transfer selected account homes only in login tabs",
+          "merged_at": "2026-10-14T21:57:01Z"
+        },
+        {
+          "number": 1819,
+          "url": "https://github.com/openwong2kim/wmux/pull/1819",
+          "title": "test: execute disabled usage preference persistence",
+          "merged_at": "2026-10-06T21:25:16Z"
+        },
+        {
+          "number": 1784,
+          "url": "https://github.com/openwong2kim/wmux/pull/1784",
+          "title": "chore: spell control characters as escapes in tracked sources",
+          "merged_at": "2026-10-04T20:09:02Z"
+        },
+        {
+          "number": 1774,
+          "url": "https://github.com/openwong2kim/wmux/pull/1774",
+          "title": "fix(daemon): require script identity before forced shutdown",
+          "merged_at": "2026-10-04T17:53:36Z"
+        },
+        {
+          "number": 1723,
+          "url": "https://github.com/openwong2kim/wmux/pull/1723",
+          "title": "test(web): budget Git HTTP operations and retry busy cleanup",
+          "merged_at": "2026-10-03T06:16:18Z"
+        },
+        {
+          "number": 1720,
+          "url": "https://github.com/openwong2kim/wmux/pull/1720",
+          "title": "fix(browser-repl): preserve non-Error worker failure reasons safely",
+          "merged_at": "2026-10-03T06:17:08Z"
+        },
+        {
+          "number": 1719,
+          "url": "https://github.com/openwong2kim/wmux/pull/1719",
+          "title": "fix(scheduling): keep paused schedules retryable after unavailable lookup",
+          "merged_at": "2026-10-03T06:19:00Z"
+        },
+        {
+          "number": 1718,
+          "url": "https://github.com/openwong2kim/wmux/pull/1718",
+          "title": "fix(logging): release rotation locks using full descriptor identities",
+          "merged_at": "2026-10-03T06:21:14Z"
+        },
+        {
+          "number": 1254,
+          "url": "https://github.com/openwong2kim/wmux/pull/1254",
+          "title": "fix(usage): restore rejected-token status after credential reads recover",
+          "merged_at": "2026-09-08T13:41:28Z"
+        },
+        {
+          "number": 1099,
+          "url": "https://github.com/openwong2kim/wmux/pull/1099",
+          "title": "fix(scheduling): bind prompts to session incarnations",
+          "merged_at": "2026-08-29T22:16:57Z"
+        },
+        {
+          "number": 1083,
+          "url": "https://github.com/openwong2kim/wmux/pull/1083",
+          "title": "feat: schedule prompts for agent sessions",
+          "merged_at": "2026-08-29T12:40:26Z"
+        },
+        {
+          "number": 1062,
+          "url": "https://github.com/openwong2kim/wmux/pull/1062",
+          "title": "fix(terminal): label replayed PTY data at the source",
+          "merged_at": "2026-08-28T10:19:01Z"
+        },
+        {
+          "number": 1024,
+          "url": "https://github.com/openwong2kim/wmux/pull/1024",
+          "title": "fix(usage): let the expired-token status clear itself after a re-login",
+          "merged_at": "2026-08-25T22:26:29Z"
+        },
+        {
+          "number": 1008,
+          "url": "https://github.com/openwong2kim/wmux/pull/1008",
+          "title": "fix(hooks): remove wmux hook leaves, not the groups they share",
+          "merged_at": "2026-08-23T13:49:08Z"
+        },
+        {
+          "number": 968,
+          "url": "https://github.com/openwong2kim/wmux/pull/968",
+          "title": "fix(hooks): remember \"Don't ask again\" for the hook-install prompt",
+          "merged_at": "2026-08-21T14:33:54Z"
+        },
+        {
+          "number": 950,
+          "url": "https://github.com/openwong2kim/wmux/pull/950",
+          "title": "chore(mcp): keep one local external-wire predicate, and test the one that runs",
+          "merged_at": "2026-08-20T14:32:23Z"
+        },
+        {
+          "number": 947,
+          "url": "https://github.com/openwong2kim/wmux/pull/947",
+          "title": "fix(perf): gate the frame-budget family on frames, and stop calling the confirmation re-run independent",
+          "merged_at": "2026-08-20T09:27:10Z"
+        },
+        {
+          "number": 941,
+          "url": "https://github.com/openwong2kim/wmux/pull/941",
+          "title": "fix(browser): scope a plugin's browser calls to the workspace hosting it",
+          "merged_at": "2026-08-20T06:41:21Z"
+        },
+        {
+          "number": 928,
+          "url": "https://github.com/openwong2kim/wmux/pull/928",
+          "title": "fix(plugins): keep the plugin bridge alive across a workspace switch",
+          "merged_at": "2026-08-16T23:59:12Z"
+        },
+        {
+          "number": 906,
+          "url": "https://github.com/openwong2kim/wmux/pull/906",
+          "title": "fix: persist Anthropic usage meter opt-in",
+          "merged_at": "2026-08-15T14:53:29Z"
+        },
+        {
+          "number": 884,
+          "url": "https://github.com/openwong2kim/wmux/pull/884",
+          "title": "test(ci): serialize real-Git reboot demos",
+          "merged_at": "2026-08-13T23:23:02Z"
+        },
+        {
+          "number": 878,
+          "url": "https://github.com/openwong2kim/wmux/pull/878",
+          "title": "fix(daemon): gate event subscriptions by client role",
+          "merged_at": "2026-08-13T13:22:30Z"
+        },
+        {
+          "number": 877,
+          "url": "https://github.com/openwong2kim/wmux/pull/877",
+          "title": "fix(daemon): preserve events across subscribe handshake",
+          "merged_at": "2026-08-13T08:55:02Z"
+        },
+        {
+          "number": 862,
+          "url": "https://github.com/openwong2kim/wmux/pull/862",
+          "title": "fix(daemon): bound broadcast subscriber backpressure",
+          "merged_at": "2026-08-11T11:22:42Z"
+        },
+        {
+          "number": 860,
+          "url": "https://github.com/openwong2kim/wmux/pull/860",
+          "title": "feat(settings): add one-shot chrome presets",
+          "merged_at": "2026-08-11T10:42:51Z"
+        },
+        {
+          "number": 852,
+          "url": "https://github.com/openwong2kim/wmux/pull/852",
+          "title": "fix(plugins): allow plugin frames in production CSP",
+          "merged_at": "2026-08-10T12:51:10Z"
+        },
+        {
+          "number": 846,
+          "url": "https://github.com/openwong2kim/wmux/pull/846",
+          "title": "feat(browser): shadow caller-derived workspace scope",
+          "merged_at": "2026-08-10T08:39:08Z"
+        },
+        {
+          "number": 845,
+          "url": "https://github.com/openwong2kim/wmux/pull/845",
+          "title": "fix(cli): scope browser navigation to caller workspace",
+          "merged_at": "2026-08-10T01:56:58Z"
+        },
+        {
+          "number": 844,
+          "url": "https://github.com/openwong2kim/wmux/pull/844",
+          "title": "fix(browser): narrow CDP attach disclosure",
+          "merged_at": "2026-08-10T01:56:23Z"
+        },
+        {
+          "number": 834,
+          "url": "https://github.com/openwong2kim/wmux/pull/834",
+          "title": "fix(cwd): resolve the host platform from the preload bridge",
+          "merged_at": "2026-08-07T17:12:14Z"
+        },
+        {
+          "number": 805,
+          "url": "https://github.com/openwong2kim/wmux/pull/805",
+          "title": "fix(renderer): reset startup reconcile timeout on progress",
+          "merged_at": "2026-08-05T11:27:54Z"
+        },
+        {
+          "number": 797,
+          "url": "https://github.com/openwong2kim/wmux/pull/797",
+          "title": "fix(mcp): reclaim a stale pinned terminal route",
+          "merged_at": "2026-08-05T02:05:16Z"
+        },
+        {
+          "number": 793,
+          "url": "https://github.com/openwong2kim/wmux/pull/793",
+          "title": "fix(cli): surface transcript access in web help and status",
+          "merged_at": "2026-08-04T13:19:14Z"
+        },
+        {
+          "number": 791,
+          "url": "https://github.com/openwong2kim/wmux/pull/791",
+          "title": "fix(transcript): preserve budget-drop receipt on reset",
+          "merged_at": "2026-08-04T03:14:09Z"
+        },
+        {
+          "number": 788,
+          "url": "https://github.com/openwong2kim/wmux/pull/788",
+          "title": "fix(web): prevent transcript response caching",
+          "merged_at": "2026-08-04T01:28:02Z"
+        },
+        {
+          "number": 787,
+          "url": "https://github.com/openwong2kim/wmux/pull/787",
+          "title": "fix(setup-hooks): report effective hook feature status",
+          "merged_at": "2026-08-04T01:25:28Z"
+        },
+        {
+          "number": 778,
+          "url": "https://github.com/openwong2kim/wmux/pull/778",
+          "title": "refactor(mcp): remove unused long-poll option",
+          "merged_at": "2026-08-03T13:07:53Z"
+        },
+        {
+          "number": 775,
+          "url": "https://github.com/openwong2kim/wmux/pull/775",
+          "title": "feat(web): add native TLS termination",
+          "merged_at": "2026-08-03T01:39:33Z"
+        },
+        {
+          "number": 765,
+          "url": "https://github.com/openwong2kim/wmux/pull/765",
+          "title": "refactor: remove dead approval request IPC",
+          "merged_at": "2026-08-02T18:08:26Z"
+        },
+        {
+          "number": 762,
+          "url": "https://github.com/openwong2kim/wmux/pull/762",
+          "title": "Recover dead panes in their original working directory",
+          "merged_at": "2026-08-02T10:01:12Z"
+        },
+        {
+          "number": 749,
+          "url": "https://github.com/openwong2kim/wmux/pull/749",
+          "title": "fix(mcp): scope browser RPC fallbacks by workspace",
+          "merged_at": "2026-08-02T05:44:46Z"
+        },
+        {
+          "number": 705,
+          "url": "https://github.com/openwong2kim/wmux/pull/705",
+          "title": "fix(channels): wake idle agents after daemon restart",
+          "merged_at": "2026-07-30T00:37:20Z"
+        },
+        {
+          "number": 701,
+          "url": "https://github.com/openwong2kim/wmux/pull/701",
+          "title": "fix(browser): scope CDP target selection to the caller's workspace (#695 main-side leg)",
+          "merged_at": "2026-07-29T12:27:41Z"
+        },
+        {
+          "number": 700,
+          "url": "https://github.com/openwong2kim/wmux/pull/700",
+          "title": "test: stop two Windows CI fixtures from reporting as product failures (#689, #690)",
+          "merged_at": "2026-07-29T11:03:50Z"
+        },
+        {
+          "number": 697,
+          "url": "https://github.com/openwong2kim/wmux/pull/697",
+          "title": "fix(browser): decide the cdp.info registration grace after workspace scoping (#591 follow-up)",
+          "merged_at": "2026-07-29T03:36:15Z"
+        },
+        {
+          "number": 686,
+          "url": "https://github.com/openwong2kim/wmux/pull/686",
+          "title": "refactor(mcp): establish wire-neutral typed catalog foundations",
+          "merged_at": "2026-07-29T02:49:14Z"
+        },
+        {
+          "number": 674,
+          "url": "https://github.com/openwong2kim/wmux/pull/674",
+          "title": "docs(protocol): clarify resync cursor replacement",
+          "merged_at": "2026-07-28T12:07:34Z"
+        },
+        {
+          "number": 647,
+          "url": "https://github.com/openwong2kim/wmux/pull/647",
+          "title": "security: widen web pairing codes to eight characters",
+          "merged_at": "2026-07-27T09:36:12Z"
+        },
+        {
+          "number": 642,
+          "url": "https://github.com/openwong2kim/wmux/pull/642",
+          "title": "ci: harden GitHub Actions workflows",
+          "merged_at": "2026-07-26T23:41:27Z"
+        },
+        {
+          "number": 634,
+          "url": "https://github.com/openwong2kim/wmux/pull/634",
+          "title": "fix(web): durably revoke state on stop",
+          "merged_at": "2026-07-26T14:38:48Z"
+        },
+        {
+          "number": 632,
+          "url": "https://github.com/openwong2kim/wmux/pull/632",
+          "title": "Confirm a red perf gate with a re-run before it fails the build",
+          "merged_at": "2026-07-26T08:14:33Z"
+        },
+        {
+          "number": 606,
+          "url": "https://github.com/openwong2kim/wmux/pull/606",
+          "title": "fix(bench): publish the perf trend where CI can actually write it",
+          "merged_at": "2026-07-25T03:18:31Z"
+        },
+        {
+          "number": 593,
+          "url": "https://github.com/openwong2kim/wmux/pull/593",
+          "title": "fix(deck): retire a heartbeat-surfaced complete pane instead of re-reviewing it every interval",
+          "merged_at": "2026-07-24T20:02:05Z"
+        },
+        {
+          "number": 591,
+          "url": "https://github.com/openwong2kim/wmux/pull/591",
+          "title": "fix(browser): scope browser.cdp.info target list to the caller's workspace (#580 disclosure leg)",
+          "merged_at": "2026-07-24T12:07:53Z"
+        },
+        {
+          "number": 586,
+          "url": "https://github.com/openwong2kim/wmux/pull/586",
+          "title": "fix(browser): scope browser.close by explicit surfaceId to the caller's workspace (#580 action leg)",
+          "merged_at": "2026-07-24T08:10:49Z"
+        },
+        {
+          "number": 581,
+          "url": "https://github.com/openwong2kim/wmux/pull/581",
+          "title": "test(cli-shim): raise live-registry PATH suite timeout above PowerShell cold start",
+          "merged_at": "2026-07-24T04:57:23Z"
+        },
+        {
+          "number": 575,
+          "url": "https://github.com/openwong2kim/wmux/pull/575",
+          "title": "fix(mcp): scope browser_tabs to the calling workspace",
+          "merged_at": "2026-07-24T03:55:51Z"
+        },
+        {
+          "number": 569,
+          "url": "https://github.com/openwong2kim/wmux/pull/569",
+          "title": "test: harden TTL and Windows symlink cases",
+          "merged_at": "2026-07-23T21:31:56Z"
+        },
+        {
+          "number": 351,
+          "url": "https://github.com/openwong2kim/wmux/pull/351",
+          "title": "fix(build): exclude MCP cache and skip native rebuild",
+          "merged_at": "2026-07-07T14:49:54Z"
+        },
+        {
+          "number": 241,
+          "url": "https://github.com/openwong2kim/wmux/pull/241",
+          "title": "fix(terminal): yield right-click paste to the app when it owns the mouse",
+          "merged_at": "2026-06-16T12:10:00Z"
+        },
+        {
+          "number": 227,
+          "url": "https://github.com/openwong2kim/wmux/pull/227",
+          "title": "fix(pty): emit OSC 7/7727 with [char]27 so the prompt hook works on PowerShell 5.1",
+          "merged_at": "2026-06-14T12:21:35Z"
+        },
+        {
+          "number": 189,
+          "url": "https://github.com/openwong2kim/wmux/pull/189",
+          "title": "fix(terminal): send Esc under a CJK IME (keyCode 229)",
+          "merged_at": "2026-06-11T03:52:19Z"
+        },
+        {
+          "number": 153,
+          "url": "https://github.com/openwong2kim/wmux/pull/153",
+          "title": "fix(terminal): Ctrl+J inserts a newline under a CJK IME",
+          "merged_at": "2026-06-08T10:03:22Z"
+        },
+        {
+          "number": 141,
+          "url": "https://github.com/openwong2kim/wmux/pull/141",
+          "title": "Workspace UX: duplicate, per-terminal cwd & working-dirs menu — plus cwd/identity fixes",
+          "merged_at": "2026-06-07T00:06:05Z"
+        },
+        {
+          "number": 103,
+          "url": "https://github.com/openwong2kim/wmux/pull/103",
+          "title": "fix(profile): allowlist path-pointer credential vars; non-destructive load (follow-up to #101)",
+          "merged_at": "2026-06-05T04:44:23Z"
+        },
+        {
+          "number": 101,
+          "url": "https://github.com/openwong2kim/wmux/pull/101",
+          "title": "feat: per-workspace process profiles (env + startup command for new panes)",
+          "merged_at": "2026-06-05T03:55:14Z"
+        },
+        {
+          "number": 97,
+          "url": "https://github.com/openwong2kim/wmux/pull/97",
+          "title": "test: serialize runtime tests",
+          "merged_at": "2026-06-04T12:34:37Z"
+        }
+      ]
+    },
+    {
+      "repository": "getsentry/junior",
+      "stars": 409,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/1396951?v=4",
+      "prs": [
+        {
+          "number": 1566,
+          "url": "https://github.com/getsentry/junior/pull/1566",
+          "title": "fix(junior-github): validate bot identity env vars in beforeToolExecute",
+          "merged_at": "2026-08-14T21:29:27Z"
+        }
+      ]
+    },
+    {
+      "repository": "fajarhide/contexere",
+      "stars": 377,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/4769529?u=f7ef5f8c9a661d3b123a60b14136450dc9a7eb30&v=4",
+      "prs": [
+        {
+          "number": 253,
+          "url": "https://github.com/fajarhide/contexere/pull/253",
+          "title": "fix(toml): fail open when batch filters strip every line",
+          "merged_at": "2026-07-29T08:03:53Z"
+        }
+      ]
+    },
+    {
+      "repository": "SirAllap/agentglass",
+      "stars": 347,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/53468881?u=64289d0999be8f0a6740390d09a96e896994fd4d&v=4",
+      "prs": [
+        {
+          "number": 532,
+          "url": "https://github.com/SirAllap/agentglass/pull/532",
+          "title": "fix(insights): a session id is only unique inside its app (#248)",
+          "merged_at": "2026-08-24T16:48:29Z"
+        }
+      ]
+    },
+    {
+      "repository": "ViciousSquid/Dosidicus",
+      "stars": 333,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/161540961?u=29c62acda6d18c43e00d6b07748b4b333d725eee&v=4",
+      "prs": [
+        {
+          "number": 44,
+          "url": "https://github.com/ViciousSquid/Dosidicus/pull/44",
+          "title": "Restore statistics tracking with verified Qt lifecycle",
+          "merged_at": "2026-08-01T13:30:23Z"
+        },
+        {
+          "number": 41,
+          "url": "https://github.com/ViciousSquid/Dosidicus/pull/41",
+          "title": "Fix squid lifetime statistics tracking",
+          "merged_at": "2026-07-30T07:19:35Z"
+        }
+      ]
+    },
+    {
+      "repository": "carvel-dev/kbld",
+      "stars": 330,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/116381947?v=4",
+      "prs": [
+        {
+          "number": 600,
+          "url": "https://github.com/carvel-dev/kbld/pull/600",
+          "title": "Fix error output in JSON mode",
+          "merged_at": "2026-10-02T01:41:09Z"
+        }
+      ]
+    },
+    {
+      "repository": "OpenDreamProject/OpenDream",
+      "stars": 282,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/116671711?v=4",
+      "prs": [
+        {
+          "number": 2690,
+          "url": "https://github.com/OpenDreamProject/OpenDream/pull/2690",
+          "title": "Fix disassembling lateral proc overrides",
+          "merged_at": "2026-08-22T04:12:40Z"
+        }
+      ]
+    },
+    {
+      "repository": "alpha-omega-security/scrutineer",
+      "stars": 264,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/276706088?v=4",
+      "prs": [
+        {
+          "number": 770,
+          "url": "https://github.com/alpha-omega-security/scrutineer/pull/770",
+          "title": "Bound repository dependency API results",
+          "merged_at": "2026-07-29T10:52:10Z"
+        },
+        {
+          "number": 682,
+          "url": "https://github.com/alpha-omega-security/scrutineer/pull/682",
+          "title": "feat(worker): add bounded retries for transient remote git failures",
+          "merged_at": "2026-07-20T22:10:23Z"
+        }
+      ]
+    },
+    {
+      "repository": "sandstone-mc/sandstone",
+      "stars": 254,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/117723663?v=4",
+      "prs": [
+        {
+          "number": 283,
+          "url": "https://github.com/sandstone-mc/sandstone/pull/283",
+          "title": "🏃 Reduce Selector type-checking cost",
+          "merged_at": "2026-08-08T04:29:44Z"
+        }
+      ]
+    },
+    {
+      "repository": "DobermanCore/Doberman-Core",
+      "stars": 247,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/320764122?v=4",
+      "prs": [
+        {
+          "number": 184,
+          "url": "https://github.com/DobermanCore/Doberman-Core/pull/184",
+          "title": "test(cli): smoke-test help for every command",
+          "merged_at": "2026-07-30T01:39:30Z"
+        },
+        {
+          "number": 132,
+          "url": "https://github.com/DobermanCore/Doberman-Core/pull/132",
+          "title": "docs(examples): add a custom Guardrail plugin tutorial",
+          "merged_at": "2026-07-22T02:32:26Z"
+        }
+      ]
+    },
+    {
+      "repository": "btsouth/toolport",
+      "stars": 236,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/258147599?u=5836d0efa87231ede9c10868109761f9e98e34db&v=4",
+      "prs": [
+        {
+          "number": 543,
+          "url": "https://github.com/btsouth/toolport/pull/543",
+          "title": "fix: keep unbound rate-limit counters in memory",
+          "merged_at": "2026-07-29T22:12:41Z"
+        }
+      ]
+    },
+    {
+      "repository": "wingfoil-io/wingfoil",
+      "stars": 231,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/222949762?v=4",
+      "prs": [
+        {
+          "number": 845,
+          "url": "https://github.com/wingfoil-io/wingfoil/pull/845",
+          "title": "fix(bench): join the worker during shutdown",
+          "merged_at": "2026-08-15T22:29:17Z"
+        }
+      ]
+    },
+    {
+      "repository": "Cloudinvoke/libunftp",
+      "stars": 220,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/30377814?v=4",
+      "prs": [
+        {
+          "number": 578,
+          "url": "https://github.com/Cloudinvoke/libunftp/pull/578",
+          "title": "fix(parser): support directory paths with spaces in LIST command (#530)",
+          "merged_at": "2026-10-25T01:07:52Z"
+        }
+      ]
+    },
+    {
+      "repository": "alplabai/signex",
+      "stars": 217,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/178675092?v=4",
+      "prs": [
+        {
+          "number": 489,
+          "url": "https://github.com/alplabai/signex/pull/489",
+          "title": "docs(readme): add download and install guidance",
+          "merged_at": "2026-10-22T20:14:18Z"
+        }
+      ]
+    },
+    {
+      "repository": "kmolan/multicalc-rust",
+      "stars": 191,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/56064630?u=225c2b4759ba622b758608fe18c6ebacfe114d47&v=4",
+      "prs": [
+        {
+          "number": 323,
+          "url": "https://github.com/kmolan/multicalc-rust/pull/323",
+          "title": "feat(root_finding): add Brent bracketed scalar root finder",
+          "merged_at": "2026-08-16T15:27:30Z"
+        }
+      ]
+    },
+    {
+      "repository": "swapnildahiphale/OpenSRE",
+      "stars": 177,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/13692814?u=988002a60af4495cd892b07ba3fa5e9dfb95dd67&v=4",
+      "prs": [
+        {
+          "number": 22,
+          "url": "https://github.com/swapnildahiphale/OpenSRE/pull/22",
+          "title": "fix: forward answers to pending questions",
+          "merged_at": "2026-09-08T05:51:58Z"
+        }
+      ]
+    },
+    {
+      "repository": "colyseus/schema",
+      "stars": 174,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/28384334?v=4",
+      "prs": [
+        {
+          "number": 242,
+          "url": "https://github.com/colyseus/schema/pull/242",
+          "title": "Preserve collection toJSON return types",
+          "merged_at": "2026-10-12T04:11:12Z"
+        }
+      ]
+    },
+    {
+      "repository": "osbytes/crypt.fyi",
+      "stars": 145,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/96487306?v=4",
+      "prs": [
+        {
+          "number": 146,
+          "url": "https://github.com/osbytes/crypt.fyi/pull/146",
+          "title": "fix(web): recover secret view retry states",
+          "merged_at": "2026-08-10T17:19:29Z"
+        },
+        {
+          "number": 139,
+          "url": "https://github.com/osbytes/crypt.fyi/pull/139",
+          "title": "feat(web): support separate decryption keys",
+          "merged_at": "2026-08-09T17:54:37Z"
+        }
+      ]
+    },
+    {
+      "repository": "KaotoIO/kaoto",
+      "stars": 132,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/85999981?v=4",
+      "prs": [
+        {
+          "number": 3576,
+          "url": "https://github.com/KaotoIO/kaoto/pull/3576",
+          "title": "refactor: centralize Camel URI syntax analysis",
+          "merged_at": "2026-07-31T14:19:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "willdady/platypus",
+      "stars": 130,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/204259?u=b563d78d47c747c114448184343ea661c4e558f0&v=4",
+      "prs": [
+        {
+          "number": 518,
+          "url": "https://github.com/willdady/platypus/pull/518",
+          "title": "chore(ci): disable Turborepo telemetry in CI workflows",
+          "merged_at": "2026-08-16T07:07:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "cdnjs/api-server",
+      "stars": 122,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/637362?v=4",
+      "prs": [
+        {
+          "number": 252,
+          "url": "https://github.com/cdnjs/api-server/pull/252",
+          "title": "Add browser coverage for human-readable routes",
+          "merged_at": "2026-08-16T16:40:17Z"
+        }
+      ]
+    },
+    {
+      "repository": "ScoopInstaller/Nonportable",
+      "stars": 115,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/16618068?v=4",
+      "prs": [
+        {
+          "number": 619,
+          "url": "https://github.com/ScoopInstaller/Nonportable/pull/619",
+          "title": "innosetup-np@6.7.3: Fix download & autoupdate URLs",
+          "merged_at": "2026-08-07T08:12:32Z"
+        }
+      ]
+    },
+    {
+      "repository": "mopidy/mopidy-mpd",
+      "stars": 112,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/451998?v=4",
+      "prs": [
+        {
+          "number": 104,
+          "url": "https://github.com/mopidy/mopidy-mpd/pull/104",
+          "title": "protocol: Hide unimplemented channel commands",
+          "merged_at": "2026-10-30T07:41:48Z"
+        }
+      ]
+    },
+    {
+      "repository": "Goldziher/scythe",
+      "stars": 75,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/30733348?u=693ebcbb769152783def6ebdb99ffef4d14178c7&v=4",
+      "prs": [
+        {
+          "number": 227,
+          "url": "https://github.com/Goldziher/scythe/pull/227",
+          "title": "fix(core): make UNION unknown widening symmetric",
+          "merged_at": "2026-08-15T17:03:52Z"
+        }
+      ]
+    },
+    {
+      "repository": "Berserk-hub150/skillhawk",
+      "stars": 70,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/89993099?u=12520bee2bda96281d5f50d27422e8013558966d&v=4",
+      "prs": [
+        {
+          "number": 45,
+          "url": "https://github.com/Berserk-hub150/skillhawk/pull/45",
+          "title": "docs(contributor-notes): add finding-title writing tip",
+          "merged_at": "2026-08-18T12:05:20Z"
+        }
+      ]
+    },
+    {
+      "repository": "NextCommunity/NextCommunity.github.io",
+      "stars": 68,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/86129340?v=4",
+      "prs": [
+        {
+          "number": 567,
+          "url": "https://github.com/NextCommunity/NextCommunity.github.io/pull/567",
+          "title": "Restore Biome checks for JavaScript sources",
+          "merged_at": "2026-10-03T04:20:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "stufro/chordly",
+      "stars": 61,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/6583312?u=d2c0c6d86f8476ed0f25074a16713b1e7de6c5c4&v=4",
+      "prs": [
+        {
+          "number": 77,
+          "url": "https://github.com/stufro/chordly/pull/77",
+          "title": "fix: exclude ignored notation from chord diagrams",
+          "merged_at": "2026-07-29T10:08:21Z"
+        }
+      ]
+    },
+    {
+      "repository": "awslabs/stickler",
+      "stars": 51,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/3299148?v=4",
+      "prs": [
+        {
+          "number": 255,
+          "url": "https://github.com/awslabs/stickler/pull/255",
+          "title": "fix(auto): emit nested dotted paths for configured StructuredModel in explain()",
+          "merged_at": "2026-08-28T20:52:56Z"
+        }
+      ]
+    },
+    {
+      "repository": "O2sa/DevImpact",
+      "stars": 37,
+      "mergedPRs": 2,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/99215291?u=29be196f6df06865952e2d59885385f52101d8dd&v=4",
+      "prs": [
+        {
+          "number": 201,
+          "url": "https://github.com/O2sa/DevImpact/pull/201",
+          "title": "feat: make cache defaults runtime-configurable",
+          "merged_at": "2026-08-15T19:10:25Z"
+        },
+        {
+          "number": 200,
+          "url": "https://github.com/O2sa/DevImpact/pull/200",
+          "title": "fix: prevent comparison swap refetches",
+          "merged_at": "2026-08-14T20:44:26Z"
+        }
+      ]
+    },
+    {
+      "repository": "8thpark/geode",
+      "stars": 34,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/152932915?v=4",
+      "prs": [
+        {
+          "number": 162,
+          "url": "https://github.com/8thpark/geode/pull/162",
+          "title": "Settings → Block save after failed connection test",
+          "merged_at": "2026-07-29T17:46:25Z"
+        }
+      ]
+    },
+    {
+      "repository": "SatcherInstitute/health-equity-tracker",
+      "stars": 23,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/69637488?v=4",
+      "prs": [
+        {
+          "number": 5148,
+          "url": "https://github.com/SatcherInstitute/health-equity-tracker/pull/5148",
+          "title": "test(ingestion): cover URL fallback in get_first_response",
+          "merged_at": "2026-08-21T01:58:54Z"
+        }
+      ]
+    },
+    {
+      "repository": "hexide-io/HexIDE",
+      "stars": 16,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/297727630?v=4",
+      "prs": [
+        {
+          "number": 82,
+          "url": "https://github.com/hexide-io/HexIDE/pull/82",
+          "title": "fix(aichat): update default modelId to claude-opus-5",
+          "merged_at": "2026-08-18T00:47:55Z"
+        }
+      ]
+    },
+    {
+      "repository": "claymore666/docker-net-dhcp",
+      "stars": 15,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/11246284?u=1108316ed24c93d03d61bc206b720dd518d944e0&v=4",
+      "prs": [
+        {
+          "number": 553,
+          "url": "https://github.com/claymore666/docker-net-dhcp/pull/553",
+          "title": "ci(labels): parse issue references from PR body in sync-issue-state-labels",
+          "merged_at": "2026-08-16T15:44:46Z"
+        }
+      ]
+    },
+    {
+      "repository": "ninadphalak/LLM-Shield-Proxy",
+      "stars": 15,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/4983868?u=afa5104e7bda83f46ed4efb4a08195f9bea9e04a&v=4",
+      "prs": [
+        {
+          "number": 11,
+          "url": "https://github.com/ninadphalak/LLM-Shield-Proxy/pull/11",
+          "title": "feat(pii): add UK NINO detection and redaction to Tier 1",
+          "merged_at": "2026-10-07T17:17:59Z"
+        }
+      ]
+    },
+    {
+      "repository": "dynawo/dyn-grid-compliance-verification",
+      "stars": 12,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/47146698?v=4",
+      "prs": [
+        {
+          "number": 386,
+          "url": "https://github.com/dynawo/dyn-grid-compliance-verification/pull/386",
+          "title": "fix(validate): exit with code 1 when overwrite is declined",
+          "merged_at": "2026-08-24T09:08:12Z"
+        }
+      ]
+    },
+    {
+      "repository": "BaryoDev/Verdict",
+      "stars": 11,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/246227695?v=4",
+      "prs": [
+        {
+          "number": 34,
+          "url": "https://github.com/BaryoDev/Verdict/pull/34",
+          "title": "fix(extensions): return pooled buffers after enumeration failures",
+          "merged_at": "2026-08-18T02:06:12Z"
+        }
+      ]
+    },
+    {
+      "repository": "jonathandeamer/lookit",
+      "stars": 9,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/202770?u=519ca26205fdf97dfa038a99fe78f5e0d8e2db94&v=4",
+      "prs": [
+        {
+          "number": 169,
+          "url": "https://github.com/jonathandeamer/lookit/pull/169",
+          "title": "test(tui): cover both repeated link occurrences",
+          "merged_at": "2026-08-18T13:29:58Z"
+        }
+      ]
+    },
+    {
+      "repository": "suhailopensource/prefID",
+      "stars": 4,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/114918598?u=8ee3e7a59774292a63e1674d0b226df6f887e13f&v=4",
+      "prs": [
+        {
+          "number": 16,
+          "url": "https://github.com/suhailopensource/prefID/pull/16",
+          "title": "fix: give CJS consumers CJS type declarations",
+          "merged_at": "2026-08-16T06:06:20Z"
+        }
+      ]
+    },
+    {
+      "repository": "Truta446/nplusone",
+      "stars": 4,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/30662756?u=1a88b701f7703fb8c54e0fd3beb0c61cdef3eeab&v=4",
+      "prs": [
+        {
+          "number": 22,
+          "url": "https://github.com/Truta446/nplusone/pull/22",
+          "title": "fix(libsql): record queries inside transaction() and executeMultiple()",
+          "merged_at": "2026-08-21T04:16:56Z"
+        }
+      ]
+    },
+    {
+      "repository": "Judgment-Pack/judgment-pack-gateway",
+      "stars": 1,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/308374591?v=4",
+      "prs": [
+        {
+          "number": 58,
+          "url": "https://github.com/Judgment-Pack/judgment-pack-gateway/pull/58",
+          "title": "test(store): assert stamped receipt cannot be overwritten in append-only store",
+          "merged_at": "2026-08-18T13:01:08Z"
+        }
+      ]
+    },
+    {
+      "repository": "sanjaynagi/ginkgo",
+      "stars": 1,
+      "mergedPRs": 1,
+      "iconKind": "owner-avatar",
+      "iconSource": "https://avatars.githubusercontent.com/u/34922269?u=851c8828dbb94def00f20f750d15a89d897ddcf8&v=4",
+      "prs": [
+        {
+          "number": 213,
+          "url": "https://github.com/sanjaynagi/ginkgo/pull/213",
+          "title": "fix(cli): omit cd in init next-steps for cwd and improve group help",
+          "merged_at": "2026-08-18T10:34:27Z"
+        }
+      ]
+    }
+  ],
+  "starredTopics": [
+    {
+      "name": "macos",
+      "count": 9
+    },
+    {
+      "name": "windows",
+      "count": 8
+    },
+    {
+      "name": "claude-code",
+      "count": 6
+    },
+    {
+      "name": "llm",
+      "count": 6
+    },
+    {
+      "name": "ai-agents",
+      "count": 6
+    },
+    {
+      "name": "developer-tools",
+      "count": 6
+    },
+    {
+      "name": "linux",
+      "count": 6
+    },
+    {
+      "name": "codex",
+      "count": 5
+    },
+    {
+      "name": "terminal",
+      "count": 4
+    },
+    {
+      "name": "browser-automation",
+      "count": 4
+    },
+    {
+      "name": "electron",
+      "count": 3
+    },
+    {
+      "name": "ai-tools",
+      "count": 3
+    },
+    {
+      "name": "browser",
+      "count": 3
+    },
+    {
+      "name": "chromium",
+      "count": 3
+    },
+    {
+      "name": "cli",
+      "count": 3
+    },
+    {
+      "name": "rust",
+      "count": 3
+    },
+    {
+      "name": "deepseek",
+      "count": 2
+    },
+    {
+      "name": "gemini-cli",
+      "count": 2
+    },
+    {
+      "name": "git-worktree",
+      "count": 2
+    },
+    {
+      "name": "ai",
+      "count": 2
+    },
+    {
+      "name": "text-to-speech",
+      "count": 2
+    },
+    {
+      "name": "tts",
+      "count": 2
+    },
+    {
+      "name": "3d",
+      "count": 2
+    },
+    {
+      "name": "svg",
+      "count": 2
+    },
+    {
+      "name": "grok",
+      "count": 2
+    },
+    {
+      "name": "android",
+      "count": 2
+    },
+    {
+      "name": "p2p",
+      "count": 2
+    },
+    {
+      "name": "self-hosted",
+      "count": 2
+    },
+    {
+      "name": "mcp",
+      "count": 2
+    },
+    {
+      "name": "python",
+      "count": 2
+    },
+    {
+      "name": "web-scraping",
+      "count": 2
+    },
+    {
+      "name": "automation",
+      "count": 2
+    },
+    {
+      "name": "claude",
+      "count": 2
+    },
+    {
+      "name": "ollama",
+      "count": 2
+    },
+    {
+      "name": "openai",
+      "count": 2
+    },
+    {
+      "name": "typescript",
+      "count": 2
+    },
+    {
+      "name": "powershell",
+      "count": 1
+    },
+    {
+      "name": "statusline",
+      "count": 1
+    },
+    {
+      "name": "audiobook",
+      "count": 1
+    },
+    {
+      "name": "cuda",
+      "count": 1
+    }
+  ],
+  "starredRepositoryCount": 37
+}
