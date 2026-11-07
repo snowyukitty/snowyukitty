@@ -414,8 +414,8 @@
       "repository": "melonjs/melonJS",
       "stars": 6440,
       "mergedPRs": 6,
-      "iconKind": "owner-avatar",
-      "iconSource": "https://avatars.githubusercontent.com/u/579995?v=4",
+      "iconKind": "project-icon",
+      "iconSource": "https://raw.githubusercontent.com/melonjs/melonJS/master/media/Favicon/Favicon.png",
       "prs": [
         {
           "number": 1840,
@@ -1191,8 +1191,8 @@
       "repository": "felladrin/MiniSearch",
       "stars": 608,
       "mergedPRs": 3,
-      "iconKind": "owner-avatar",
-      "iconSource": "https://avatars.githubusercontent.com/u/418083?u=601cfc55c7b3c2821e23d928d37c202693e0928f&v=4",
+      "iconKind": "project-icon",
+      "iconSource": "https://raw.githubusercontent.com/felladrin/MiniSearch/main/client/public/favicon.png",
       "prs": [
         {
           "number": 2252,
@@ -1299,8 +1299,8 @@
       "repository": "openwong2kim/wmux",
       "stars": 448,
       "mergedPRs": 67,
-      "iconKind": "owner-avatar",
-      "iconSource": "https://avatars.githubusercontent.com/u/269396487?u=c2a2e2862db57e39ce9b6ea7def5b3d49e980437&v=4",
+      "iconKind": "project-icon",
+      "iconSource": "https://raw.githubusercontent.com/openwong2kim/wmux/main/assets/icon.png",
       "prs": [
         {
           "number": 2170,
@@ -2499,5 +2499,53 @@
       "count": 1
     }
   ],
-  "starredRepositoryCount": 37
+  "starredRepositoryCount": 37,
+  "rankings": {
+    "byStars": [
+      "remotion-dev/remotion",
+      "xyflow/xyflow",
+      "dgtlmoon/changedetection.io",
+      "raysan5/raylib",
+      "nicolargo/glances",
+      "4ian/GDevelop"
+    ],
+    "byMergedPRs": [
+      "openwong2kim/wmux",
+      "lidge-jun/opencodex",
+      "melonjs/melonJS",
+      "dgtlmoon/changedetection.io",
+      "getkin/kin-openapi",
+      "felladrin/MiniSearch"
+    ]
+  },
+  "featuredProjects": [
+    {
+      "name": "huemantics",
+      "url": "https://huemantics.pages.dev/"
+    },
+    {
+      "name": "IconFlow",
+      "url": "https://ai-iconflow.com/"
+    },
+    {
+      "name": "Game Hype Radar",
+      "url": "https://game-radar.pages.dev/"
+    },
+    {
+      "name": "LumenDeck",
+      "url": "https://github.com/snowyukitty/LumenDeck",
+      "status": "Development preview"
+    },
+    {
+      "name": "Morflo",
+      "url": "https://github.com/snowyukitty/morflo",
+      "status": "In development"
+    },
+    {
+      "name": "Agent Orchestrator",
+      "url": "https://github.com/snowyukitty/agent-orchestrator",
+      "status": "In development"
+    }
+  ],
+  "discord": "https://discord.com/users/676210679899881484"
 }
