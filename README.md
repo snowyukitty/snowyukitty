@@ -201,9 +201,12 @@ A small selection from my [GitHub stars](https://github.com/snowyukitty?tab=star
 
 ## A small cinema
 
-Stories about game worlds, animation, and everyday places. Short films made with Claude.
+Music videos, stories about AI, game worlds, tech history, animation, and everyday places. Short films made with Claude.
 
-<p align="center"><a href="https://snowy-smile.com/#film-gta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-gta-dark.svg?v=01245504f95ff380"><img src="assets/film-gta-light.svg?v=01245504f95ff380" alt="The City That Isn't Real · 7:43 — A late-night radio history of GTA." width="248"></picture></a>
+<p align="center"><a href="https://x.com/snowy_smile_/status/2123558689848303657"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-windows-light-dark.svg?v=68095400a7f3430f"><img src="assets/film-windows-light-light.svg?v=68095400a7f3430f" alt="Windows-Light · 2:50 — A pixel music video painted in code. v0.2." width="248"></picture></a>
+<a href="https://x.com/snowy_smile_/status/2123388133626769631"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-clawd-dark.svg?v=600156f5cc1a6018"><img src="assets/film-clawd-light.svg?v=600156f5cc1a6018" alt="Anthropic, Claude &amp; Clawd · 1:26 — A first look at a 30-minute film in progress." width="248"></picture></a>
+<a href="https://snowy-smile.com/#film-gta"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-gta-dark.svg?v=01245504f95ff380"><img src="assets/film-gta-light.svg?v=01245504f95ff380" alt="The City That Isn't Real · 7:43 — A late-night radio history of GTA." width="248"></picture></a>
+<a href="https://x.com/snowy_smile_/status/2120155210089972042"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-market-dark.svg?v=7410eab53bf4e170"><img src="assets/film-market-light.svg?v=7410eab53bf4e170" alt="Market or Marriage · 8:49 — Big Tech's stock prices against its founders' marriages." width="248"></picture></a>
 <a href="https://snowy-smile.com/#film-anima"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-anima-dark.svg?v=bb078b23490a18fc"><img src="assets/film-anima-light.svg?v=bb078b23490a18fc" alt="Anima · 8:52 — A journey through Japanese animation." width="248"></picture></a>
 <a href="https://snowy-smile.com/#film-yonago"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/film-yonago-dark.svg?v=4ff0b6c1d8b0d812"><img src="assets/film-yonago-light.svg?v=4ff0b6c1d8b0d812" alt="Okaeri no Machi · 5:59 — A small film about the place I call home." width="248"></picture></a></p>
 

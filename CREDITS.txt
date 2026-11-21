@@ -1,7 +1,7 @@
 Snowy Profile
 
 Profile biography and avatar: https://github.com/snowyukitty
-Films and project images: https://snowy-smile.com/ (owner-authorized reuse of public portfolio content)
+Films and project images: https://snowy-smile.com/ (owner-authorized reuse of public portfolio content); frames from Snowy's own public videos on https://x.com/snowy_smile_ (Windows-Light, Anthropic/Claude/Clawd, Market or Marriage)
 Contribution icons: each source and project/owner-avatar classification is listed in sources.json. Logos identify the upstream projects; no endorsement is claimed.
 Star selections: Blender favicon from https://www.blender.org/wp-content/themes/bthree/assets/icons/favicon.svg ; three.js favicon from https://threejs.org/files/favicon.ico ; WezTerm favicon from https://wezterm.org/favicon.png . The Aa specimen is decorative typography, not a Kurewa Gothic logo or font sample.
 Original SVG compositions: Snowy. Pixel garden uses Snowy’s rendered kitten face, recomposed as a two-paw garden-ledge pose, from https://snowyukitty.com/; no private character engine is included.
